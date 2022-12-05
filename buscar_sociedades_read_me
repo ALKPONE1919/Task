@@ -1,0 +1,4 @@
+El archivo Busca_Sociedad.py utiliza la base de sociedades suministrada por la AFIP (https://www.argentina.gob.ar/justicia/registro-nacional-sociedades) 
+se puede bajar un csv completo el programa tiene un botón para porder importarlo a la base de datso (sociedades). Luego introduciendo el CUIT en caso de 
+ser un registros el resutlado enviar eventos del tipo SEND_KEYS a la aplicación inmeditamente inferior (alt+tab) ahorrando un tiempo operativo considerable.
+
