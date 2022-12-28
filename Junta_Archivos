@@ -1,0 +1,1 @@
+El archivo path.csv contiene la ruta de los archivos a juntar, esta ruta contaba con más de 500 excel files del mismo formato, y el objetivo del programa fue unificarlos en uno sólo para poder realizar los gráficos y el MI correspondiente para el análisis.
